@@ -1,0 +1,36 @@
+img{
+    max-width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 25px;
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0;
+}
+
+body{
+    background-color:rgba(34, 65, 139, 0.642);
+    color: white;
+    text-align: center;
+}
+
+p{
+    font-size: 1.2rem;
+
+}
+.card{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-inline: 10px;
+}
+
+.card p {
+    color: rgba(34, 66, 139, 0.938);
+    padding-inline: 10px;
+}
